@@ -1,4 +1,7 @@
 //TODO: we need to add the missing classes!
+//TODO: find out S number of collaborator
+
+//OK, I will add Adder, S##### will add Subtractor
 
 public class Main {
     public static void main(String[] args) {
